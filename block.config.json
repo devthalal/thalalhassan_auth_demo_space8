@@ -1,0 +1,9 @@
+{
+  "name": "auth_demo_space8",
+  "type": "package",
+  "blockId": "XkOVKtyznZ4b8OId-lADh",
+  "source": {
+    "https": "https://github.com/devthalal/thalalhassan_auth_demo_space8",
+    "ssh": "git@github.com:devthalal/thalalhassan_auth_demo_space8.git"
+  }
+}
